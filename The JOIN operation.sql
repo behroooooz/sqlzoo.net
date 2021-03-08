@@ -1,3 +1,4 @@
+#  https://sqlzoo.net/wiki/The_JOIN_operation
 
 #   1. Modify it to show the matchid and player name for all goals scored by Germany.
 
